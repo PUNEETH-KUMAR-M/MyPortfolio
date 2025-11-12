@@ -118,7 +118,7 @@ const Hero = () => {
             className="flex flex-col sm:flex-row gap-4 justify-center items-center"
           >
             <motion.a
-              href="https://drive.google.com/file/d/16Ld8ySk6sP-Q353Dp39_h2qFKxeJK4Q2/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/1sZu1T_iAX9WWOzGaXrfjpRl4t1PqYjMH/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05 }}
